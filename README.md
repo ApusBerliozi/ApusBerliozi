@@ -5,6 +5,7 @@
 
 Backend developer with 5+ years building high-load fintech and product systems in Python.
 Focused on microservices, system integrations, and backend that moves business metrics — not just tickets closed.
+Actively contribute to the Python OSS ecosystem: submitting patches to **[FastStream](https://github.com/ag2ai/faststream)** (async framework for Kafka/RabbitMQ/NATS/MQTT event-driven services) and **[Dishka](https://github.com/reagento/dishka)** (DI framework for Python), and maintain **[pyfenn](https://github.com/pyfenn)**, an ML/DL workflow-automation framework of my own.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@roman28341-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/roman28341)
 [![Gmail](https://img.shields.io/badge/Email-romanrabota602@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:romanrabota602@gmail.com)
@@ -18,7 +19,7 @@ Focused on microservices, system integrations, and backend that moves business m
 
 - 🏦 Currently building microservices at **LIME**, a high-load fintech product (~1500 RPS) — anti-fraud & credit-scoring integrations for loan disbursement
 - 🧩 Specialize in **microservices architecture**, async Python, and system integrations
-- 🌱 Open-source contributor to **[FastStream](https://github.com/airtai/faststream)** and **[Dishka](https://github.com/reagento/dishka)**
+- 🌱 Open-source contributor to **[FastStream](https://github.com/ag2ai/faststream)** and **[Dishka](https://github.com/reagento/dishka)**
 - 🛠 Maintainer of **[pyfenn](https://github.com/ApusBerliozi/pyfenn)**, a personal open-source project
 - 💬 Ask me about: FastAPI, Django, async Python, message queues, backend architecture for fintech
 - 📫 Reach me at: **romanrabota602@gmail.com** or Telegram **@roman28341**
@@ -72,14 +73,32 @@ Focused on microservices, system integrations, and backend that moves business m
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApusBerliozi&show_icons=true&theme=radical&hide_border=true)
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApusBerliozi&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApusBerliozi&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApusBerliozi&theme=radical&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ApusBerliozi&theme=radical&no-frame=true&row=1&column=7)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApusBerliozi&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApusBerliozi/ApusBerliozi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApusBerliozi/ApusBerliozi/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ApusBerliozi/ApusBerliozi/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
