@@ -73,18 +73,6 @@ Actively contribute to the Python OSS ecosystem: submitting patches to **[FastSt
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-![Metrics](https://raw.githubusercontent.com/ApusBerliozi/ApusBerliozi/main/metrics.svg)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ApusBerliozi&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
