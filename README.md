@@ -77,14 +77,9 @@ Actively contribute to the Python OSS ecosystem: submitting patches to **[FastSt
 
 <div align="center">
 
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApusBerliozi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApusBerliozi&layout=compact&theme=radical&hide_border=true)
+![Metrics](https://raw.githubusercontent.com/ApusBerliozi/ApusBerliozi/main/metrics.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApusBerliozi&theme=radical&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ApusBerliozi&theme=radical&no-frame=true&row=1&column=7)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApusBerliozi&theme=react-dark&hide_border=true&area=true" width="100%"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ApusBerliozi&theme=radical&hide_border=true)
 
 </div>
 
