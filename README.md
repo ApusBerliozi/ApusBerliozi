@@ -9,7 +9,6 @@ Actively contribute to the Python OSS ecosystem: submitting patches to **[FastSt
 
 [![Telegram](https://img.shields.io/badge/Telegram-@roman28341-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/roman28341)
 [![Gmail](https://img.shields.io/badge/Email-romanrabota602@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:romanrabota602@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Karaganda,%20Kazakhstan-555555?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
